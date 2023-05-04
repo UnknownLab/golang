@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-1/README.md.md",
+                "file": "Learning logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-1/README.md.md",
+                "file": "Learning logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-1/README.md.md",
+                "file": "Learning logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-1/README.md.md"
+                "file": "Learning logs.md"
               }
             }
           }
@@ -148,14 +148,18 @@
   },
   "active": "f9becb110e9e9702",
   "lastOpenFiles": [
+    "book-1/README.md",
+    "Next.md",
     "Learning logs.md",
     "book-1/README.md.md",
+    "book-1/src/chapter3/Next.md~",
+    "book-1/src/chapter3/Next.md",
+    "book-1/src/chapter3",
     "book-1/src/chapter2/main.go",
     "book-1/src/chapter2",
     "book-1/docs/Impressions.md",
     "book-1/docs",
     "book-1/src",
-    "book-1/README.md",
     "book-1/Learning logs.md",
     "book-1/Impressions.md",
     "book-1",
