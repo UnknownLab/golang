@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "4d75e4df3c1bc783",
+    "id": "8a138bae19a4ab51",
     "type": "split",
     "children": [
       {
-        "id": "0be668ada62cc9b0",
+        "id": "1b175333fe41e862",
         "type": "tabs",
         "children": [
           {
-            "id": "eb281d2f8f9e3284",
+            "id": "f9becb110e9e9702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impressions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd262a6e4aaa2ef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning logs.md",
+                "file": "book-1/README.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "565c56c64989541e",
+    "id": "e253da822783ac37",
     "type": "split",
     "children": [
       {
-        "id": "d1762d75c034f3bb",
+        "id": "5d1ee2a863c55d0a",
         "type": "tabs",
         "children": [
           {
-            "id": "f6adcdc2742195e8",
+            "id": "03dcc5fe99bc0f33",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "d85d094ce2356ebe",
+            "id": "8db70e2b12cfd45a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,10 +58,10 @@
             }
           },
           {
-            "id": "658d64fafe5ff162",
+            "id": "8c0d9a2e71373a88",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -84,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "c159984fd581a241",
+    "id": "cc069d36f0e7250a",
     "type": "split",
     "children": [
       {
-        "id": "556a9e12d1b98bb0",
+        "id": "00a6146f3b27ca33",
         "type": "tabs",
         "children": [
           {
-            "id": "547cf2a88328794a",
+            "id": "c481f6c41bda3c0b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Impressions.md",
+                "file": "book-1/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +97,19 @@
             }
           },
           {
-            "id": "a11b654d67c3793d",
+            "id": "668bbf0cfc670ece",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Impressions.md",
+                "file": "book-1/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1e2d83e77d8fb31d",
+            "id": "ef7dcc45b90b85b0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +120,12 @@
             }
           },
           {
-            "id": "796173da1cf424cc",
+            "id": "5e13699a2895e5f6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Impressions.md"
+                "file": "book-1/README.md.md"
               }
             }
           }
@@ -158,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb281d2f8f9e3284",
+  "active": "f9becb110e9e9702",
   "lastOpenFiles": [
     "Learning logs.md",
-    "Impressions.md",
-    "Impressions.md~"
+    "book-1/README.md.md",
+    "book-1/src/chapter2/main.go",
+    "book-1/src/chapter2",
+    "book-1/docs/Impressions.md",
+    "book-1/docs",
+    "book-1/src",
+    "book-1/README.md",
+    "book-1/Learning logs.md",
+    "book-1/Impressions.md",
+    "book-1",
+    "book"
   ]
 }
