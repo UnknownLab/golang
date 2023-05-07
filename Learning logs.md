@@ -10,3 +10,5 @@
 
 ## Day 2
 - learn chapter 3
+- learn chapter 4
+- still learn nothing new. Similar to C++/C# and etc.
