@@ -9,4 +9,4 @@
  - End Day 1, spend around 3.5 hours
 
 ## Day 2
-- TODO
+- learn chapter 3

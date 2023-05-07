@@ -1,12 +1,7 @@
 ## 1. Install/upgrade
-### score: 
-8/10
-### comment: 
 easy install manual, but not perfect tooling. So confused information about upgrading Golang, I can't do after 4-5 pages from google search. Uninstall/Install process for upgrading seems as bad decision.
 
 ## 2. simple function syntax
-### score: confused
-comment: 
 ```
 func main() {
     fmt.Println("Hello World")
