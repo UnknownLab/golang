@@ -140,6 +140,8 @@
   },
   "active": "03dcc5fe99bc0f33",
   "lastOpenFiles": [
+    "book-1/src/chapter6/main.go",
+    "book-1/src/chapter6",
     "book-1/src/chapter5/main.go",
     "book-1/src/chapter5",
     "book-1/src/chapter4/main.go",
@@ -155,8 +157,6 @@
     "book-1/src/chapter3",
     "book-1/src/chapter2/main.go",
     "book-1/src/chapter2",
-    "book-1/docs",
-    "book-1/src",
     "book-1/Learning logs.md",
     "book-1/Impressions.md"
   ]
