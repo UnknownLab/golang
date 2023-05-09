@@ -26,5 +26,7 @@ Something like you're not so lazy to type "function" but after 4 characters you 
 In chapter 4 author tell you that variable naming very important. In chapter 5 you see "i" variables everywhere.
 
 ## 4. Array, Slice, Map
-seems like slices, arrays and maps have very poor implementation. Without generics syntax very ugly.
+Seems like slices, arrays and maps have very poor implementation. Without generics syntax very ugly.
 
+## 5. Defer functions
+First impression about golang defer functions is that a point of many unexpected errors, not really readable

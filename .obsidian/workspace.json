@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9becb110e9e9702",
+  "active": "03dcc5fe99bc0f33",
   "lastOpenFiles": [
+    "book-1/src/chapter7/main.go",
     "Learning logs.md",
     "book-1/README.md",
     "book-1/docs/Impressions.md",
