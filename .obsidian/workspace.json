@@ -11,8 +11,12 @@
             "id": "f9becb110e9e9702",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "book-1/docs/Impressions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "book-1/docs/Impressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "book-1/docs/Impressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "book-1/docs/Impressions.md"
+              }
             }
           }
         ]
@@ -138,25 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03dcc5fe99bc0f33",
+  "active": "f9becb110e9e9702",
   "lastOpenFiles": [
+    "Learning logs.md",
+    "book-1/README.md",
+    "book-1/docs/Impressions.md",
+    "book-1/src/chapter7/Next.md",
     "book-1/src/chapter6/main.go",
     "book-1/src/chapter6",
     "book-1/src/chapter5/main.go",
     "book-1/src/chapter5",
     "book-1/src/chapter4/main.go",
     "book-1/src/chapter4",
-    "book-1/docs/Impressions.md",
-    "Learning logs.md",
     "book-1/src/chapter3/main.go",
-    "book-1/README.md",
     "Next.md",
     "book-1/README.md.md",
     "book-1/src/chapter3/Next.md~",
     "book-1/src/chapter3/Next.md",
     "book-1/src/chapter3",
     "book-1/src/chapter2/main.go",
-    "book-1/src/chapter2",
     "book-1/Learning logs.md",
     "book-1/Impressions.md"
   ]

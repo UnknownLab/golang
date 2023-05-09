@@ -1,1 +1,1 @@
-[[book-1/src/chapter3/Next|Next]]
+https://www.golang-book.com/books/intro/7
