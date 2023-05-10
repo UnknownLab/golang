@@ -31,4 +31,4 @@
 - next ideas: 
 [build my own database](https://build-your-own.org/database/), 
 learn Core Library,
-earn [Gin framework](https://github.com/gin-gonic/gin) and write web api application
+learn [Gin framework](https://github.com/gin-gonic/gin) and write web api application
