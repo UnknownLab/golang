@@ -40,3 +40,9 @@ Need more researches.
 
 ## 8. Goroutines
 Very easy and powerful construction but not easy to understand channels blocks
+
+## 9. Biggest LOL
+"Go was designed to be a language that encourages good software engineering practices. An important part of high quality software is code reuse – embodied in the principle “Don't Repeat Yourself.”"
+
+## 10. Recompile. Very good point
+"It speeds up the compiler by only requiring recompilation of smaller chunks of a program. Although we use the package fmt, we don't have to recompile it every time we change our program."

@@ -19,3 +19,10 @@
 ## Day 3
 - learn [chapter 7](https://www.golang-book.com/books/intro/7)
 - learn [chapter9](https://www.golang-book.com/books/intro/9) and additional [blog post](https://medium.com/@tim.chenbw/struct-and-interface-in-go-31d696bf3a17) for Golang struct and interfaces
+- research implementation Abstract Repository Pattern with ChatGPT
+- learn [chapter10](https://www.golang-book.com/books/intro/10)
+- research more info about concurrency in golang with ChatGPT
+- learn [chapter11](https://www.golang-book.com/books/intro/11)
+- find work examples of packages and examples of nested files of package and their imports syntax
+- learn [chapter12](https://www.golang-book.com/books/intro/12)
+- learn some [bdd stuff](https://medium.com/lensesio/declarative-bdd-with-golang-3f5f6a1ac5a8) for golang
