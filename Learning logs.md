@@ -26,3 +26,9 @@
 - find work examples of packages and examples of nested files of package and their imports syntax
 - learn [chapter12](https://www.golang-book.com/books/intro/12)
 - learn some [bdd stuff](https://medium.com/lensesio/declarative-bdd-with-golang-3f5f6a1ac5a8) for golang
+- stop learn [chapter13](https://www.golang-book.com/books/intro/13) because I need another source for std library
+- end [book 1](https://www.golang-book.com)
+- next ideas: 
+[build my own database](https://build-your-own.org/database/), 
+learn Core Library,
+earn [Gin framework](https://github.com/gin-gonic/gin) and write web api application
