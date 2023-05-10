@@ -46,3 +46,9 @@ Very easy and powerful construction but not easy to understand channels blocks
 
 ## 10. Recompile. Very good point
 "It speeds up the compiler by only requiring recompilation of smaller chunks of a program. Although we use the package fmt, we don't have to recompile it every time we change our program."
+
+## 11. Packages
+are simple and pure
+
+## 12. Tests
+Build-in tools very good way for this kind of language, but I need some BDD style.
