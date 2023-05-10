@@ -18,3 +18,4 @@
 
 ## Day 3
 - learn [chapter 7](https://www.golang-book.com/books/intro/7)
+- learn [chapter9](https://www.golang-book.com/books/intro/9) and additional [blog post](https://medium.com/@tim.chenbw/struct-and-interface-in-go-31d696bf3a17) for Golang struct and interfaces

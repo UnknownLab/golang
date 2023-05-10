@@ -30,3 +30,13 @@ Seems like slices, arrays and maps have very poor implementation. Without generi
 
 ## 5. Defer functions
 First impression about golang defer functions is that a point of many unexpected errors, not really readable
+
+## 6. Interface with struct 
+don't require implementation for compile but runtime error. WTF ??? see lol.go in chapter 9
+
+## 7. Interface with struct 2
+I like way where you separate methods from struct but implementation in golang seems not so powerful enough. 
+Need more researches.
+
+## 8. Goroutines
+Very easy and powerful construction but not easy to understand channels blocks
