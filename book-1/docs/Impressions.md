@@ -52,3 +52,6 @@ are simple and pure
 
 ## 12. Tests
 Build-in tools very good way for this kind of language, but I need some BDD style.
+
+## 13. Tooling
+Golang have self-completed tools. With good Ide Golang feels very comfortable. 
